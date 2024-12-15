@@ -9,6 +9,9 @@ body {
     justify-content: center;
     position: relative;
     color: #0583F2;
+    color: #0583F2;
+    background-image: url('./village-9236268_1280.jpg');
+    background-size: cover;
 }
 
 
